@@ -28,11 +28,11 @@ function contact() {
              </Flex>
             <Flex alignItems={'center'} gap={'3'}> 
               <BsFillTelephoneFill />
-              <Text>+91 9596103894</Text>
+              <Text>+919980796796, +916364801707</Text>
              </Flex>
             <Flex alignItems={'center'} gap={'3'}> 
               <MdEmail />
-              <Text>Wajidkashoo@gmail.com</Text>
+              <Text>Incrediblecococare@gmail.com</Text>
              </Flex>
              <Heading fontSize={'lg'}>Connect with us:</Heading>
              <Flex gap={'3'} alignItems={'center'} fontSize={'1.5rem'} >
