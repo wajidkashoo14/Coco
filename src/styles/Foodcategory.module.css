@@ -1,0 +1,6 @@
+.heading {
+    background: linear-gradient(to right, #314755,#26a0da);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-transform: capitalize;
+  }

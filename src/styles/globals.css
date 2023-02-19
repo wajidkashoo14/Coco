@@ -1,0 +1,33 @@
+/* @import url('/coco.jpg');
+.hero-container {
+ background-image: url('/coco.jpg');
+}
+.icon-link{
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.card{
+  height: 20rem;
+  width: 15rem;
+  padding: .5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.img{
+  width: 200px;
+  height: 150px;
+  background-position: center;
+  object-fit: cover;
+  background-repeat: no-repeat;
+} */
+
+.heading {
+  background: linear-gradient(to right, #314755,#26a0da);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-transform: capitalize;
+}
