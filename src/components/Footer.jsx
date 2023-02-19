@@ -97,9 +97,9 @@ function Footer() {
             Contact
             </Link>
 
-            <Link className={styles.link} href="/blogs">
+            {/* <Link className={styles.link} href="/blogs">
              f
-            </Link> 
+            </Link>  */}
           </Flex>
         </Flex>
         <Flex flexDir={"column"}>
@@ -123,12 +123,11 @@ function Footer() {
               mt={"3"}
             >
               <Text>call us</Text>
-              <Text color={"#5191FA"}>+91-9596103894</Text>
-              <Text color={"#5191FA"}>+91-9596103894</Text>
+              <Text color={"#5191FA"}>+919980796796, +916364801707</Text>
             </Box>
             <Box px={{ base: "2", md: "2", lg: "5" }} color={"#BECFD6"}>
               <Text>Email us</Text>
-              <Text color={"#5191FA"}>Wkashoo@gmail.com</Text>
+              <Text color={"#5191FA"}> Incrediblecococare@gmail.com</Text>
             </Box>
             <Box
               gap={"6"}
